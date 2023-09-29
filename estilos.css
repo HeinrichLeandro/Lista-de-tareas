@@ -1,6 +1,7 @@
 .container{
     background-color: cornflowerblue;
-    padding-bottom: 2%;
+    padding: 2%;
+    margin-top: 1%;
 }
 
 li {
@@ -15,4 +16,8 @@ li p {
     margin: 0;
     padding: 15px;
     width: 100%;
+}
+
+.pendiente {
+    font-size:larger;
 }

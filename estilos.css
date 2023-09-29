@@ -1,0 +1,18 @@
+.container{
+    background-color: cornflowerblue;
+    padding-bottom: 2%;
+}
+
+li {
+    list-style: none;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 15px;
+    display: flex;
+}
+
+li p {
+    margin: 0;
+    padding: 15px;
+    width: 100%;
+}

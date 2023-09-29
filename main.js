@@ -32,7 +32,7 @@ btn.addEventListener("click", (e) => {
     const deleteBtn = document.createElement("button");
   
     deleteBtn.textContent = "-";
-    deleteBtn.className = "btn-delete btn btn-danger";
+    deleteBtn.className = "btn-delete btn btn-danger delebtn";
   
     deleteBtn.addEventListener("click", (e) => {
       swal.fire({

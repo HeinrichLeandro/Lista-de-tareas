@@ -2,6 +2,7 @@
     background-color: cornflowerblue;
     padding: 2%;
     margin-top: 1%;
+    border-radius: 50px;
 }
 
 li {
@@ -18,6 +19,15 @@ li p {
     width: 100%;
 }
 
-.pendiente {
+p {
     font-size:larger;
+}
+
+.instex{
+    margin:2%;
+    padding: 1%;
+}
+
+.delebtn{
+    margin: 1%;
 }
